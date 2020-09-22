@@ -12,5 +12,5 @@ function findOppositeNumber(n, inputNumber) {
 	return result;
 }
 
-console.log(`findOppositeNumber(6, 2) = ${findOppositeNumber(6, 2)}`);
-console.log(`findOppositeNumber(6, 4) = ${findOppositeNumber(6, 4)}`);
+console.log(`findOppositeNumber(10, 2) = ${findOppositeNumber(10, 2)}`);
+console.log(`findOppositeNumber(10, 6) = ${findOppositeNumber(10, 6)}`);
